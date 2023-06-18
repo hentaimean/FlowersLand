@@ -1,2 +1,2 @@
 # FlowersLand
-Online store
+Интернет-магазин.
